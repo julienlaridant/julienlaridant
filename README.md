@@ -1,1 +1,1 @@
-<img style="height:200px; with:200px;" src="homme.png">
+<img style="height:200px; with:200px;" src="homme.jpg">
