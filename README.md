@@ -1,1 +1,1 @@
-![](https://www.google.fr/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fvectoriel%2Fboom-effet-gm916028398-252076683&psig=AOvVaw1fN0x4ycNA0BJ-25_yQ4SB&ust=1638813986965000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi5uv6fzfQCFQAAAAAdAAAAABAD)
+![](http://url/to/img.png)
